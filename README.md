@@ -6,4 +6,8 @@ Pytorch 的使用學習筆記
 
 ### Deep Learning with PyTorch: A 60 Minute Blitz : https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html
    * What is Pytorch?
+   * Autograd: Automatic Differentiation
+   * Neural Networks
+   * Training a Classifier
+   * Optional: Data Parallelism
    
